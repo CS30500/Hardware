@@ -1,0 +1,24 @@
+# 빌드 파일
+*.hex
+*.elf
+*.bin
+*.eep
+*.map
+
+# 중간 파일
+*.o
+*.d
+*.a
+
+# 백업 파일
+*~
+*.swp
+*.swo
+
+# IDE 관련
+.vscode/
+.idea/
+
+# OS 관련
+.DS_Store
+Thumbs.db
